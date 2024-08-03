@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "clAwKJAdtdvhEcai4Z7DCZlNnDtzyvBtTYHazherBEXuHl0220UMk5icdg7t34G/5YuNNRFIDa1uNuANfOUt8g==",
+  "dgSpecHash": "a2u/mZiwqMH0zr3vkFy9snGip7VcAtW0oOrUnIn67JatERQoNdQENvM6E19QXorXlN+jzpbhXalCPkHbcH+kWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\LifeO\\XCore\\Server\\XCore.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LifeO\\.nuget\\packages\\citizenfx.core.server\\1.0.9235\\citizenfx.core.server.1.0.9235.nupkg.sha512",
     "C:\\Users\\LifeO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\LifeO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\LifeO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\LifeO\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
     "C:\\Users\\LifeO\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\LifeO\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

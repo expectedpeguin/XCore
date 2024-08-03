@@ -9,8 +9,6 @@ description 'XCore based server'
 version 'v0.0.1'
 author 'LifeOwner'
 url 'https://github.com/expectedpeguin/XCore/'
--- ui_page 'storage.html'
-
 
 -- Files & scripts
 files {

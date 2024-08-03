@@ -1,6 +1,7 @@
 ![Artboard 1@4x](https://github.com/user-attachments/assets/a5bf6a07-90f9-45a8-b8ff-226e718b0656)
 
 # XCore Framework for FiveM
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/expectedpeguin/XCore)
 
 Welcome to XCore, the next-generation framework for FiveM, designed to revolutionize the development and management of multiplayer game servers. XCore stands at the forefront of innovation, integrating robust technologies such as Golang, RabbitMQ, and C# to deliver unmatched performance, scalability, and flexibility.
 
