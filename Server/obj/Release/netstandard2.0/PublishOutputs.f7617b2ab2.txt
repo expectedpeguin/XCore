@@ -1,0 +1,9 @@
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\publish\XCore.Server.net.dll
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\publish\XCore.Server.deps.json
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\publish\XCore.Server.net.pdb
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\publish\CitizenFX.Core.Server.dll
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\publish\RabbitMQ.Client.dll
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\publish\System.Buffers.dll
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\publish\System.Memory.dll
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\publish\System.Numerics.Vectors.dll
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\publish\System.Runtime.CompilerServices.Unsafe.dll

@@ -1,0 +1,10 @@
+C:\Users\LifeO\XCore\Client\bin\Release\net452\XCore.Client.net.dll
+C:\Users\LifeO\XCore\Client\bin\Release\net452\CitizenFX.Core.Client.dll
+C:\Users\LifeO\XCore\Client\obj\Release\net452\XCore.Client.AssemblyInfoInputs.cache
+C:\Users\LifeO\XCore\Client\obj\Release\net452\XCore.Client.AssemblyInfo.cs
+C:\Users\LifeO\XCore\Client\obj\Release\net452\XCore.Client.csproj.CoreCompileInputs.cache
+C:\Users\LifeO\XCore\Client\obj\Release\net452\XCore.Client.net.dll
+C:\Users\LifeO\XCore\Client\bin\Release\net452\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\LifeO\XCore\Client\bin\Release\net452\RabbitMQ.Client.dll
+C:\Users\LifeO\XCore\Client\obj\Release\net452\XCore.Client.csprojAssemblyReference.cache
+C:\Users\LifeO\XCore\Client\obj\Release\net452\XCore.Client.csproj.CopyComplete

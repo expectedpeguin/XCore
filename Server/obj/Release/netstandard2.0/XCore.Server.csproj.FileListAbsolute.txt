@@ -1,0 +1,9 @@
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\XCore.Server.deps.json
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\XCore.Server.net.dll
+C:\Users\LifeO\XCore\Server\bin\Release\netstandard2.0\XCore.Server.net.pdb
+C:\Users\LifeO\XCore\Server\obj\Release\netstandard2.0\XCore.Server.AssemblyInfoInputs.cache
+C:\Users\LifeO\XCore\Server\obj\Release\netstandard2.0\XCore.Server.AssemblyInfo.cs
+C:\Users\LifeO\XCore\Server\obj\Release\netstandard2.0\XCore.Server.csproj.CoreCompileInputs.cache
+C:\Users\LifeO\XCore\Server\obj\Release\netstandard2.0\XCore.Server.net.dll
+C:\Users\LifeO\XCore\Server\obj\Release\netstandard2.0\XCore.Server.net.pdb
+C:\Users\LifeO\XCore\Server\obj\Release\netstandard2.0\XCore.Server.csprojAssemblyReference.cache

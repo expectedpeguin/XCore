@@ -1,0 +1,169 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "CitizenFX.Core.Client/1.0.9235": {
+        "type": "package",
+        "compile": {
+          "lib/net45/CitizenFX.Core.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net45/CitizenFX.Core.Client.dll": {}
+        }
+      },
+      "Microsoft.Diagnostics.Tracing.EventSource.Redist/1.1.28": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Microsoft.Diagnostics.Tracing.EventSource.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Microsoft.Diagnostics.Tracing.EventSource.dll": {}
+        }
+      },
+      "RabbitMQ.Client/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Diagnostics.Tracing.EventSource.Redist": "1.1.28"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System"
+        ],
+        "compile": {
+          "lib/net451/RabbitMQ.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net451/RabbitMQ.Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CitizenFX.Core.Client/1.0.9235": {
+      "sha512": "o/TisWdnAO1PBiWPS/C+6psmT6ejEJYT4MqJ/ErBIuCHpt6WTwZsnWmaZdSvROy1bfNpYJB0X82RoucBmIIEvA==",
+      "type": "package",
+      "path": "citizenfx.core.client/1.0.9235",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "citizenfx.core.client.1.0.9235.nupkg.sha512",
+        "citizenfx.core.client.nuspec",
+        "lib/net45/CitizenFX.Core.Client.dll",
+        "lib/net45/CitizenFX.Core.Client.xml"
+      ]
+    },
+    "Microsoft.Diagnostics.Tracing.EventSource.Redist/1.1.28": {
+      "sha512": "pn07chRDMdeug9sHbuNlAEZG8ZN3zKgE07IMJG7qPeoQlX6ve01rKTwknKCY/2CVacRP78ONzykV8am84gxc2g==",
+      "type": "package",
+      "path": "microsoft.diagnostics.tracing.eventsource.redist/1.1.28",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License-Stable.rtf",
+        "lib/net35/Microsoft.Diagnostics.Tracing.EventSource.XML",
+        "lib/net35/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "lib/net40/Microsoft.Diagnostics.Tracing.EventSource.XML",
+        "lib/net40/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "lib/net46/Microsoft.Diagnostics.Tracing.EventSource.XML",
+        "lib/net46/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "lib/portable-win8+wpa81/Microsoft.Diagnostics.Tracing.EventSource.XML",
+        "lib/portable-win8+wpa81/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "microsoft.diagnostics.tracing.eventsource.redist.1.1.28.nupkg.sha512",
+        "microsoft.diagnostics.tracing.eventsource.redist.nuspec"
+      ]
+    },
+    "RabbitMQ.Client/5.2.0": {
+      "sha512": "WY73qFhekwALxI+YTf97WkeWjnQXZFjkSc1oCwZ7Pz/XwOthBotr9ty3DhU2F7GuzU0HHyO9z9uW6AXr+TyhLQ==",
+      "type": "package",
+      "path": "rabbitmq.client/5.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/net451/RabbitMQ.Client.dll",
+        "lib/net451/RabbitMQ.Client.pdb",
+        "lib/net451/RabbitMQ.Client.xml",
+        "lib/netstandard1.5/RabbitMQ.Client.dll",
+        "lib/netstandard1.5/RabbitMQ.Client.pdb",
+        "lib/netstandard1.5/RabbitMQ.Client.xml",
+        "lib/netstandard2.0/RabbitMQ.Client.dll",
+        "lib/netstandard2.0/RabbitMQ.Client.pdb",
+        "lib/netstandard2.0/RabbitMQ.Client.xml",
+        "rabbitmq.client.5.2.0.nupkg.sha512",
+        "rabbitmq.client.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "CitizenFX.Core.Client >= 1.0.*",
+      "RabbitMQ.Client >= 5.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LifeO\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\LifeO\\XCore\\Client\\XCore.Client.csproj",
+      "projectName": "XCore.Client",
+      "projectPath": "C:\\Users\\LifeO\\XCore\\Client\\XCore.Client.csproj",
+      "packagesPath": "C:\\Users\\LifeO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LifeO\\XCore\\Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\LifeO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "dependencies": {
+          "CitizenFX.Core.Client": {
+            "target": "Package",
+            "version": "[1.0.*, )"
+          },
+          "RabbitMQ.Client": {
+            "target": "Package",
+            "version": "[5.2.0, )"
+          }
+        },
+        "downloadDependencies": [
+          {
+            "name": "CitizenFX.Framework.Client",
+            "version": "[0.2.3, 0.2.3]"
+          }
+        ],
+        "frameworkReferences": {
+          "CitizenFX.Framework.Client": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

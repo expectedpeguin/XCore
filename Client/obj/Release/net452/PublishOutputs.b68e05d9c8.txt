@@ -1,0 +1,2 @@
+C:\Users\LifeO\XCore\Client\bin\Release\net452\publish\XCore.Client.net.dll
+C:\Users\LifeO\XCore\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll
