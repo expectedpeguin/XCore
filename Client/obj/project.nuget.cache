@@ -4,7 +4,7 @@
   "success": true,
   "projectFilePath": "C:\\Users\\LifeO\\XCore\\Client\\XCore.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LifeO\\.nuget\\packages\\citizenfx.core.client\\1.0.9235\\citizenfx.core.client.1.0.9235.nupkg.sha512",
+    "C:\\Users\\LifeO\\.nuget\\packages\\citizenfx.core.client\\1.0.9282\\citizenfx.core.client.1.0.9282.nupkg.sha512",
     "C:\\Users\\LifeO\\.nuget\\packages\\microsoft.diagnostics.tracing.eventsource.redist\\1.1.28\\microsoft.diagnostics.tracing.eventsource.redist.1.1.28.nupkg.sha512",
     "C:\\Users\\LifeO\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512",
     "C:\\Users\\LifeO\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"

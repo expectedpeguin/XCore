@@ -10,7 +10,7 @@ using Newtonsoft.Json.Linq;
 
 namespace XCore.Server.Utilities
 {
-    public class VersionChecker
+    public abstract class VersionChecker
     {
         private const string GithubUser = "expectedpeguin";
         private const string GithubRepo = "XCore";

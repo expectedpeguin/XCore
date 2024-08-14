@@ -9,7 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "XCore.Server/1.0.0": {
         "dependencies": {
-          "CitizenFX.Core.Server": "1.0.9235",
+          "CitizenFX.Core.Server": "1.0.9282",
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "13.0.3",
           "RabbitMQ.Client": "6.0.0"
@@ -18,7 +18,7 @@
           "XCore.Server.dll": {}
         }
       },
-      "CitizenFX.Core.Server/1.0.9235": {
+      "CitizenFX.Core.Server/1.0.9282": {
         "runtime": {
           "lib/netstandard20/CitizenFX.Core.Server.dll": {
             "assemblyVersion": "0.0.0.0",
@@ -96,12 +96,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CitizenFX.Core.Server/1.0.9235": {
+    "CitizenFX.Core.Server/1.0.9282": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-uBv4YjKkF+lIuwxWaAG6KXEnrRP0qBaDTvVCC6W7nhjf4zUrHwIDWjPQKifB1qu/SzVWfS3mw+0MsV6Tld42Yw==",
-      "path": "citizenfx.core.server/1.0.9235",
-      "hashPath": "citizenfx.core.server.1.0.9235.nupkg.sha512"
+      "sha512": "sha512-t3YOmKzFcoTxOscl70UpmjQSZfT+LlDL76NiJB3MYfGzcLvyV1gMcb2fPdl6Z2kWdP4tYI4vhPFIxWGca4P9Kg==",
+      "path": "citizenfx.core.server/1.0.9282",
+      "hashPath": "citizenfx.core.server.1.0.9282.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

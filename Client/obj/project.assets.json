@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.5.2": {
-      "CitizenFX.Core.Client/1.0.9235": {
+      "CitizenFX.Core.Client/1.0.9282": {
         "type": "package",
         "compile": {
           "lib/net45/CitizenFX.Core.Client.dll": {}
@@ -39,14 +39,14 @@
     }
   },
   "libraries": {
-    "CitizenFX.Core.Client/1.0.9235": {
-      "sha512": "o/TisWdnAO1PBiWPS/C+6psmT6ejEJYT4MqJ/ErBIuCHpt6WTwZsnWmaZdSvROy1bfNpYJB0X82RoucBmIIEvA==",
+    "CitizenFX.Core.Client/1.0.9282": {
+      "sha512": "a9lziN15NMFJZ8VeYRrEvDEeptchzvkEBq8TkPOSzcctvOWnNpZpplNyHUAO1I8clnrbxF+n09EA3dlnnJllxA==",
       "type": "package",
-      "path": "citizenfx.core.client/1.0.9235",
+      "path": "citizenfx.core.client/1.0.9282",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "citizenfx.core.client.1.0.9235.nupkg.sha512",
+        "citizenfx.core.client.1.0.9282.nupkg.sha512",
         "citizenfx.core.client.nuspec",
         "lib/net45/CitizenFX.Core.Client.dll",
         "lib/net45/CitizenFX.Core.Client.xml"
